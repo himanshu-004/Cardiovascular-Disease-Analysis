@@ -158,7 +158,7 @@ Cardiovascular Disease Analysis
 
 ![Cardiovascular Disease Analysis](https://github.com/himanshu-004/Cardiovascular-Disease-Analysis/assets/81569893/c9cba409-75f8-4312-a157-76c236c5adff)
 
-Please vist the here: [Dashboard](https://public.tableau.com/app/profile/himanshu.shriwas/viz/Cardivasculardisease/CardiovascularDiseaseAnalysis?publish=yes)
+Please vist the dashboard here: [Dashboard](https://public.tableau.com/app/profile/himanshu.shriwas/viz/Cardivasculardisease/CardiovascularDiseaseAnalysis?publish=yes)
 
 
 **Blood pressure**
