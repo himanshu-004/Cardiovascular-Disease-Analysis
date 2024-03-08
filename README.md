@@ -141,6 +141,7 @@ SET bmi_category =
   ![image](https://github.com/himanshu-004/Cardiovascular-Disease-Analysis/assets/81569893/acf86507-6e88-4965-9bb9-cd964658ceef)
 
 * Average age of patients by blood pressure category
+  
   ![image](https://github.com/himanshu-004/Cardiovascular-Disease-Analysis/assets/81569893/03671c11-5fee-4bde-bc6e-524bc122bb6d)
 
 * Count of patient’s cholesterol by BMI category 
